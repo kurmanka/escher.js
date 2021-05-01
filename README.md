@@ -41,7 +41,7 @@
 ```
 
 ```javascript
-var canvas = document.getElementById(canvas);
+var canvas = document.getElementById("canvas");
 document.body.onresize = function()
 {
 	canvas.width = window.innerWidth;
